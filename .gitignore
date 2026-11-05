@@ -1,0 +1,6 @@
+.fog/
+mult_keys/
+*.bin
+*.fhex
+.DS_Store
+.devcontainer/
